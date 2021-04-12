@@ -1,0 +1,91 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Conheça Nossa Capela
+
+## Skin
+
+### Button
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = FOTOS 360º 
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = 360º VIEWS
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = QUERO SABER MAIS!
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = QUERO SABER MAIS!
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFORMAÇÃO
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMAÇÃO
+Button_D5E7BA75_C634_1D07_41C8_DEC970F7B5E1.label = A Igreja de Jesus Cristo no Facebook
+
+### Multiline Text
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.6);text-align:center;font-size:4.809999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:4.73vmin;font-family:'Exo';"><B><I>Conheça uma </I></B></SPAN><SPAN STYLE="color:#ffffff;font-size:4.81vmin;font-family:'Exo';"><B><I>de nossas capelas</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 6px rgba(0,0,0,0.63);text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Exo';"><B><I>Conheça uma de nossas capelas</I></B></SPAN></SPAN></DIV></div>
+HTMLText_727E544B_7DD2_675A_41D7_B13EDAF14E19.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:6.666666666666667vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Exo';"><B><I>A IGREJA DE </I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:10.130000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10vmin;font-family:'Exo';"><B><I>J</I></B></SPAN><SPAN STYLE="font-size:10.13vmin;font-family:'Exo';"><B><I>ESUS CRISTO</I></B></SPAN><SPAN STYLE="font-size:7.22vmin;font-family:'Exo';"><B><I> </I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:6.666666666666667vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Exo';"><B><I>DOS SANTOS </I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:6.666666666666667vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Exo';"><B><I>DOS ÚLTIMOS DIAS</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.63vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.9779589371980713vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Times New Roman Baltic';">Deus enviou Jesus não apenas para nos salvar do pecado, mas para organizar uma Igreja. Quando Jesus morreu, Ele deixou mais do que grandes ensinamentos e sermões. Ele deixou apóstolos, mandamentos e a organização básica da Igreja que continuaria a abençoar outras pessoas muito tempo após sua morte. Ele também deu a homens justos o sacerdócio de Deus, que é o poder e a autoridade para agir em nome Dele. Esse é o mesmo poder que Jesus Cristo usou para curar os enfermos, levantar os mortos, abençoar os aflitos e designar pessoas para liderar Sua Igreja.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:3.9779589371980713vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Times New Roman Baltic';"><I>www.vindeacristo.org</I></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.9927536231884055vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.99vw;font-family:'Exo';"><B><I>A IGREJA DE</I></B></SPAN><SPAN STYLE="font-size:1.63vw;font-family:'Exo';"><B><I> </I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:2.8985507246376807vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.9vw;font-family:'Exo';"><B><I>JESUS CRISTO </I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:1.8115942028985508vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.81vw;font-family:'Exo';"><B><I>DOS SANTOS </I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:1.8115942028985508vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.81vw;font-family:'Exo';"><B><I>DOS ÚLTIMOS DIAS</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4500000000000006vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.45vw;font-family:'Exo';"><B><I>----------------------------------------------------------</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.358695652173914vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.36vw;font-family:'Times New Roman Baltic';">Deus enviou Jesus não apenas para nos salvar do pecado, mas para organizar uma Igreja. Quando Jesus morreu, Ele deixou mais do que grandes ensinamentos e sermões. Ele deixou apóstolos, mandamentos e a organização básica da Igreja que continuaria a abençoar outras pessoas muito tempo após sua morte. Ele também deu a homens justos o sacerdócio de Deus, que é o poder e a autoridade para agir em nome Dele. Esse é o mesmo poder que Jesus Cristo usou para curar os enfermos, levantar os mortos, abençoar os aflitos e designar pessoas para liderar Sua Igreja.</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:1.358695652173914vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.36vw;font-family:'Times New Roman Baltic';"><I>www.vindeacristo.org</I></SPAN></SPAN></DIV></div>
+HTMLText_D5AA71EA_C635_EF0D_41E4_860421636C0E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:19px;">Para aprender mais, clique no link abaixo e entre em contato conosco através de nossa pagina no Facebook. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:19px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:19px;">Teremos o prazer de lhe direcionar a um de nossos missionários que estarão prontos para responder suas perguntas.</SPAN></SPAN></DIV></div>
+HTMLText_DDCFD827_C4CE_4FE2_41D2_80D7C3651E17.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:37px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>QUERO SABER MAIS!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:19px;">Para aprender mais, clique no link abaixo e entre em contato conosco através de nossa pagina no Facebook. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:19px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:19px;">Teremos o prazer de lhe direcionar a um de nossos missionários que estarão prontos para responder suas perguntas.</SPAN></SPAN></DIV></div>
+
+### Label
+Label_D47AD48B_C634_F503_41C1_3A866353F5EF.text = QUERO SABER MAIS!
+Label_DD40D4A5_C4C6_40E7_41CB_45741171D5E9.text = A Igreja de Jesus Cristo no Facebook
+
+## Media
+
+### Title
+album_DAB2A7FB_C4CA_4062_41A7_31989CA4A051.label = Photo Album Livro de Mórmon
+album_DAB2A7FB_C4CA_4062_41A7_31989CA4A051_1.label = Templo 1
+album_DAB2A7FB_C4CA_4062_41A7_31989CA4A051_2.label = Templo 2
+album_DAB2A7FB_C4CA_4062_41A7_31989CA4A051_3.label = Templo
+panorama_C9EC0C41_C45A_479F_41CA_D17C03168E59.label = Entrada (2)
+panorama_CB045263_C45A_4062_41B9_0203A7613F92.label = Entrada (1)
+panorama_D1144EAA_C45D_C0E2_4186_0AF8BB8FA555.label = Entrada (3)
+panorama_D1F3CA5D_C44A_43A7_41B5_EB7E03F4CB2F.label = Sacramental (2)
+panorama_D1F57592_C44A_40A2_41E6_9FD1D6E30246.label = Sacramental (3)
+panorama_D23C4B88_C44D_C0AD_41D8_B8802E2E79E8.label = Sacramental (1)
+panorama_D2AE0115_C43A_41A6_41DC_1B73FB9BEFF5.label = Sala da Fonte Batismal
+panorama_D385AD10_C446_41BE_41E7_6129D701B101.label = Hall
+panorama_DA8F0CDF_C45A_40A2_41CB_1FA4FDA9A5D6.label = Fonte Batismal
+panorama_DC54B691_C43A_40BF_41D0_55FB039D3301.label = Corredor
+photo_D8CDFF52_C43A_41A2_41B8_D926C8B70759.label = christus-lds-454706-wallpaper
+photo_D8CDFF52_C43A_41A2_41B8_D926C8B70759.label = christus-lds-454706-wallpaper
+photo_D8CF8A29_C43B_C3EE_41C8_174B06D48E28.label = elder_missionaries
+photo_D8CF8A29_C43B_C3EE_41C8_174B06D48E28.label = elder_missionaries
+photo_DA172B49_C44A_C1AE_41C5_0B36D3421FB4.label = Mãos que Ajudam
+photo_DA172B49_C44A_C1AE_41C5_0B36D3421FB4.label = Mãos que Ajudam
+photo_DB275FEF_C4CB_C062_41A9_C0A6732F357A.label = 1200px-O_livro_de_mormon
+photo_DB275FEF_C4CB_C062_41A9_C0A6732F357A.label = 1200px-O_livro_de_mormon
+photo_DE647C33_C4C5_C7E3_41DE_51515AC4CCAB.label = Templo 5
+photo_DE647C33_C4C5_C7E3_41DE_51515AC4CCAB.label = Templo 5
+photo_DE64A9A0_C4C5_C09E_41DE_2E9E97AA2497.label = Templo 4
+photo_DE64A9A0_C4C5_C09E_41DE_2E9E97AA2497.label = Templo 4
+photo_DE6DF3F9_C4CB_C06E_41C5_D0F73BFDBC21.label = 20190311_110610_DSCF1560
+photo_DE6DF3F9_C4CB_C06E_41C5_D0F73BFDBC21.label = 20190311_110610_DSCF1560
+photo_DE6E9772_C4CB_C07D_41E2_11A8188D8111.label = Rome_Temple_20190227_Finalfinalsmall
+photo_DE6E9772_C4CB_C07D_41E2_11A8188D8111.label = Rome_Temple_20190227_Finalfinalsmall
+photo_DFB70044_C43B_FFA6_41E3_BF63CB93BC40.label = sister_missionaries_atlanta_georgia
+photo_DFB70044_C43B_FFA6_41E3_BF63CB93BC40.label = sister_missionaries_atlanta_georgia
+photo_DFCE9677_C4C5_C062_41DA_71794A3527CA.label = Templo 3
+photo_DFCE9677_C4C5_C062_41DA_71794A3527CA.label = Templo 3
+
+## Popup
+
+### Title
+window_D2C4C61B_C45A_43A2_41E5_80AA33716EEF.title = Boas Vindas
+window_D30256DD_C445_C0A7_41A3_10ED702AAD5F.title = Salão Sacramental
+window_DC82972E_C4CD_C1E5_41E6_0E6E5BADB845.title = Fonte Batismal
+window_DF401FC2_C93F_A731_41D5_E95A085F04A9.title = HALL
+
+## Action
+
+### URL
+LinkBehaviour_C93C3548_C45E_C1AD_41E3_5C53445C32CE.source = https://www.facebook.com/aigrejadejesuscristoemjuizdefora/
+LinkBehaviour_C9C825D4_C45E_C0A6_419A_0EBEA23D60CB.source = http://www.facebook.com/loremipsum
+LinkBehaviour_C9C8C5D4_C45E_C0A6_41E6_FCBB091F33CC.source = http://www.twitter.com/loremipsum
+LinkBehaviour_D22196F6_C62C_1502_41DB_F2799429582F.source = https://www.facebook.com/aigrejadejesuscristoemjuizdefora/
+LinkBehaviour_DF155EA3_C4DA_40E2_41C7_53BBC5E6DCD1.source = https://www.facebook.com/aigrejadejesuscristoemjuizdefora/
+PopupWebFrameBehaviour_D069D0F2_C90D_DAD6_41E8_92B63369AF0D.url = //www.youtube.com/embed/yGeT4TZx3Ew?v=yGeT4TZx3Ew
+PopupWebFrameBehaviour_D2C4261B_C45A_43A2_41DA_5FE50145E2A0.url = //www.youtube.com/embed/3a0qLQucMD8
+PopupWebFrameBehaviour_D30216DD_C445_C0A7_41E8_51E0532DA21F.url = //www.youtube.com/embed/RrHNzT9cJsc
+PopupWebFrameBehaviour_DC82572D_C4CD_C1E7_41B0_2BF434597B8E.url = //www.youtube.com/embed/B7tSKMz7bYQ
+PopupWebFrameBehaviour_DF40DFC2_C93F_A731_41E1_76727AEE04C3.url = //www.youtube.com/embed/EN8GgyZs3P4
